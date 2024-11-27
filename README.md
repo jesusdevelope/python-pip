@@ -1,18 +1,18 @@
-# Game Project
+# Game Project  
 
-Para correr el juego debes correr las siguientes instrucciones:
+Para correr el juego debes correr las siguientes instrucciones:  
 
-'''sh\n
-cd Game\n
-python3 main.py\n
-'''
+'''sh  
+cd Game  
+python3 main.py  
+'''  
 
-# app Project
+# app Project  
 
-'''sh
-git clone\n
-cd app\n
-source env/bin/activate\n
-pip3 install -r requirements.txt\n
-python3 main.py\n
-'''
+'''sh  
+git clone  
+cd app  
+source env/bin/activate  
+pip3 install -r requirements.txt  
+python3 main.py  
+'''  
